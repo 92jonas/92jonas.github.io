@@ -1,0 +1,1472 @@
+# Translation of Llorix One Lite in Swedish
+# This file is distributed under the same license as the Llorix One Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-28 10:05:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Llorix One Lite\n"
+
+#. Description of the plugin/theme
+msgid "Llorix One Lite is a free and beautiful one page business WordPress theme, with a flat and clean bootstrap based design and an elegant parallax effect. It provides a simple,minimal and modern look that can be used for any kind of personal businesses or startup mobile app. The landing page has a fullscreen hero image and blue & orange appearance with buttons and icons promoting simplicity and elegance at their best. The theme provides a responsive blog section, is eCommerce ready (WooCommerce store compatible), WPML, bbPress, Photo Gallery Grid,Contact Form 7,Meta Slider,SiteOrigin Page Builder, JetPack compatible  and SEO friendly. You can use it for your business / startup shop, agency, corporate website, or photography portfolio."
+msgstr "Llorix One Lite är ett gratis och vackert ensidestema för WordPress, med en platt och ren boostrapbaserad design och elegant parallax-effekt. Det ger en enkel, minimal och modern look som passar alla slags företagssidor eller startups. Landningssidan bjuder på en inledande fullskärmsbild med blåa och orangea toner, knappar och ikoner som visar enkelheten i sitt esse. Temat innehåller en responsiv bloggdel, det har stöd för e-handel (kompatibelt med WooCommerce), WPML, bbPress, Photo Gallery Grid,Contact Form 7,Meta Slider,SiteOrigin Page Builder, stöd för JetPack och är SEO-vänligt. Du kan använda det för ditt företag / startup-butik, agentur eller fotosida."
+
+#. Theme Name of the plugin/theme
+msgid "Llorix One Lite"
+msgstr "Llorix One Lite"
+
+#: inc/customizer.php:832
+msgid "Check out the <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO version</a> for full control over the COLOR SCHEME!"
+msgstr "Kolla in <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO-versionen</a> för full kontroll över FÄRGSCHEMAT!"
+
+#: inc/customizer.php:840
+msgid "Preloader"
+msgstr "Förhandsladdning"
+
+#: inc/customizer.php:843
+msgid "Check out the <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO version</a> for full control over the PRELOADER IMAGE!"
+msgstr "Kolla in <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO-versionen</a> för full kontroll över bild vid FÖRHANDSLADDNING!"
+
+#: inc/customizer.php:851
+msgid "Opacity"
+msgstr "Transparens"
+
+#: inc/customizer.php:854
+msgid "Check out the <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO version</a> for full control over the background opacity and color of each section!"
+msgstr "Kolla in <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO-versionen</a> för full kontroll över genomskinlighet av bakgrund och färger för vardera sektion!"
+
+#: inc/customizer.php:778 inc/customizer.php:787
+msgid "Sections management"
+msgstr "Hantering av sektioner"
+
+#: inc/customizer.php:790
+msgid "Check out the <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO version</a> for full control over the frontpage SECTIONS ORDER!"
+msgstr "Kolla in <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO-versionen</a> för full kontroll över startsidans ORDNING AV SEKTIONER!"
+
+#: inc/customizer.php:795
+msgid "Portfolio section"
+msgstr "Sektion för portfolio"
+
+#: inc/customizer.php:803
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/customizer.php:806
+msgid "Check out the <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO version</a> for full control over the NEW PORTFOLIO SECTION!"
+msgstr "Kolla in den <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO-versionen</a> för full kontroll över den NYA PORTFOLIOSEKTIONEN!"
+
+#: inc/customizer.php:810
+msgid "New Features"
+msgstr "Nya funktioner"
+
+#: inc/customizer.php:818
+msgid "Header Layout"
+msgstr "Layout för sidhuvud"
+
+#: inc/customizer.php:821
+msgid "Check out the <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO version</a> for full control over the HEADER'S LAYOUT SECTION!"
+msgstr "Kolla in den <a href=\"http://themeisle.com/plugins/llorix-one-plus/\">PRO-versionen</a> för full kontroll över SIDHUVUDETS LAYOUT!"
+
+#: inc/customizer.php:829
+msgid "Color scheme"
+msgstr "Färgschema"
+
+#. Template Name of the plugin/theme
+msgid "Eventbrite Events"
+msgstr "Eventbrite Events"
+
+#: header.php:85 inc/customizer.php:191
+msgid "Call us: "
+msgstr "Ring oss:"
+
+#: inc/customizer.php:73
+msgid "Change the template to Full width for all the pages?"
+msgstr "Ändra mallen till full bredd för alla sidor?"
+
+#: inc/customizer.php:195
+msgid "Text before the phone number"
+msgstr "Text innan telefonnummer"
+
+#: inc/customizer.php:284 inc/customizer.php:431
+msgid "Overlay color and transparency"
+msgstr "Överliggande färg och transparans"
+
+#: inc/customizer.php:319
+msgid "Big title section"
+msgstr "Sektion för stor rubrik"
+
+#: inc/customizer.php:386
+msgid "Big title section background"
+msgstr "Bakgrund för sektionen med stor rubrik"
+
+#: inc/customizer.php:440
+msgid "Logos Bar section"
+msgstr "Sektion för social panel"
+
+#: inc/customizer.php:293
+msgid "Frontpage settings"
+msgstr "Inställningar för startsida"
+
+#: inc/customizer.php:312
+msgid "Frontpage sections"
+msgstr "Sektioner för startsida"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Hur kan jag bidra?"
+
+#: inc/admin/welcome-screen/sections/github.php:15
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Har du hittat en bugg? Vill du bidra med åtgärder eller att skapa nya funktioner?"
+
+#: inc/admin/welcome-screen/sections/github.php:28
+msgid "Are you a polyglot? Want to translate Llorix One Lite into your own language?"
+msgstr "Är du en polyglot? Vill du översätta Llorix One Lite?"
+
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Get involved at WordPress.org."
+msgstr "Delta på WordPress.org."
+
+#: inc/customizer.php:305
+msgid "To customize the Frontpage sections please create a page and select the template \"Frontpage\" for that page. After that, go to Appearance -> Customize -> Static Front Page and under \"Static Front Page\" select \"A static page\". Finally, for \"Front page\" choose the page you previously created."
+msgstr "För att anpassa sektionen för startsidan, vänligen skapa en sida och välj mallen \"Startsida\" för sidan. Gå sedan till Utseende-> Anpassa-> Statisk startsida och välj \"En statisk sida\" under \"Statisk startsida\". Slutligen, som \"Startsida\" välj sidan du skapade tidigare."
+
+#: inc/customizer.php:305
+msgid "Need further informations? Check this"
+msgstr "Behöver du mer information? Kolla in"
+
+#: inc/customizer.php:305
+msgid "doc"
+msgstr "dok"
+
+#: inc/customizer.php:126
+msgid "Llorix One Lite theme general appearance options"
+msgstr "Grundinställningar för Llorix One Lites utseende"
+
+#: inc/customizer.php:166
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: inc/customizer.php:691 inc/customizer.php:722
+msgid "To use this section please install "
+msgstr "För att kunna använda den här sektionen, vänligen installera tillägget "
+
+#: inc/customizer.php:691 inc/customizer.php:722
+msgid "Intergeo Maps"
+msgstr "Intergeo Maps"
+
+#: inc/customizer.php:691 inc/customizer.php:722
+msgid " plugin then use it to create a map and paste here the shortcode generated"
+msgstr " sen kan du använda det för att skapa en karta och klistra in kortkoden som genereras här"
+
+#: inc/customizer.php:710
+msgid "Create a form, copy the shortcode generated and paste it here. We recommend "
+msgstr "Skapa ett formulär, kopiera den kortkod som genereras och klistra in den här. Vi rekommenderar "
+
+#: inc/customizer.php:710
+msgid " but you can use any plugin you like."
+msgstr " men du kan använda vilket tillägg du vill."
+
+#: inc/admin/welcome-screen/sections/support.php:9
+msgid "Need more details?"
+msgstr "Behöver du mer information?"
+
+#: inc/admin/welcome-screen/sections/support.php:11
+msgid "Please check our full documentation for detailed information on how to use Llorix One."
+msgstr "Kolla in vår fullständiga dokumentation för mer detaljerad information på hur man använder Llorix One."
+
+#: inc/admin/welcome-screen/sections/support.php:14
+msgid "Llorix One Lite documentation"
+msgstr "Dokumentation för Llorix One Lite"
+
+#: inc/admin/welcome-screen/sections/support.php:17
+msgid "Or would you like to contact us? Write on our support forum."
+msgstr "Eller vill du kontakta oss? Skriv i vårt supportforum."
+
+#: inc/admin/welcome-screen/sections/support.php:20
+msgid "Support forum"
+msgstr "Supportforum"
+
+#: inc/admin/welcome-screen/welcome-screen.php:168
+msgid "Support"
+msgstr "Support"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:55
+msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "I dokumentationen nedan hittar du instruktioner för att enkelt bygga en snygg landningssida med sidbyggartillägg som använder dra-och-släpp metoden."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Bygg en landningssida med dra-och-släpp metoden för innehåll"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:139
+msgid "Easy Content Types"
+msgstr "Enkla innehållstyper"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:140
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr "Anpassade posttyper, taxonomier och metaboxar på minuter."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:150
+msgid "Download Easy Content Types"
+msgstr "Ladda ner Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:168
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder av SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:169
+msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
+msgstr "Bygg responsiva sidlayouter med hjälp av widgets du känner till och älskar genom att använda det här enkla dra och släpp-verktyget."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:179
+msgid "Install Page Builder by SiteOrigin"
+msgstr "Installera Page Builder av SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/github.php:33
+msgid "Translate Llorix One Lite"
+msgstr "Översätt Llorix One Lite"
+
+#: inc/admin/welcome-screen/sections/github.php:40
+msgid "Are you enjoying Llorix One Lite?"
+msgstr "Gillar du Llorix One Lite?"
+
+#: inc/admin/welcome-screen/sections/github.php:42
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr "Betygsätt vårat tema på %sWordPress.org%s. Det uppskattas!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:101
+msgid "Llorix One Companion"
+msgstr "Llorix One Companion"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:102
+msgid "The Llorix One Companion plugin is a simple, easy and in the same time quite powerful plugins that adds options for Our Services, Our Team and Testimonials sections on frontpage."
+msgstr "Tillägget The Llorix One Companion är ett enkelt, smidigt och samtidigt kraftfullt tillägg som ger dig fler sektioner för startsidan, så som Våra tjänster, Vårt team och Kundreferenser."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:112
+msgid "Install Llorix One Companion"
+msgstr "Installera Llorix One Companion"
+
+#: inc/customizer.php:453
+msgid "Disable the Logos bar sections?"
+msgstr "Inaktivera sektion för social panel?"
+
+#: inc/customizer.php:184
+msgid "Disable the Very top header?"
+msgstr "Inaktivera översta sidhuvud?"
+
+#: inc/customizer.php:498
+msgid "Disable the About section?"
+msgstr "Inaktivera sektion om oss?"
+
+#: inc/customizer.php:557
+msgid "Disable the Ribbon section?"
+msgstr "Inaktivera sektionen för puff?"
+
+#: inc/customizer.php:626
+msgid "Disable the Latest news section?"
+msgstr "Inaktivera sektionen för senaste nytt?"
+
+#: inc/customizer.php:646
+msgid "Contact info section"
+msgstr "Sektion för kontaktinfo"
+
+#: inc/customizer.php:659
+msgid "Disable the Contact info section?"
+msgstr "Inaktivera sektionen för kontaktinfo?"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Startsida"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Full bredd"
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr "Kontakt"
+
+#: sections/llorix_one_lite_ribbon_section.php:28
+#: sections/llorix_one_lite_ribbon_section.php:30
+#: sections/llorix_one_lite_ribbon_section.php:68
+#: sections/llorix_one_lite_ribbon_section.php:70
+msgid "Ribbon"
+msgstr "Puff"
+
+#: sections/llorix_one_lite_ribbon_section.php:48
+#: sections/llorix_one_lite_ribbon_section.php:50
+#: sections/llorix_one_lite_ribbon_section.php:87
+#: sections/llorix_one_lite_ribbon_section.php:89
+msgid "Ribbon button label:"
+msgstr "Etikett för knapp i puff:"
+
+#: sidebar.php:13
+msgid "Main sidebar"
+msgstr "Primär sidopanel"
+
+#: sections/llorix_one_lite_logos_section.php:35
+#: sections/llorix_one_lite_logos_section.php:74
+msgid "Affiliates Logos"
+msgstr "Logotyper för affiliates"
+
+#: sections/llorix_one_lite_our_story_section.php:21
+#: sections/llorix_one_lite_our_story_section.php:25
+msgid "About"
+msgstr "Om"
+
+#: sections/llorix_one_lite_latest_news_section.php:106
+#: sections/llorix_one_lite_latest_news_section.php:219
+msgid "Read more %s"
+msgstr "Fortsätt läsa %s"
+
+#: sections/llorix_one_lite_header_section.php:94
+#: sections/llorix_one_lite_header_section.php:97
+#: sections/llorix_one_lite_header_section.php:99
+msgid "Header button label:"
+msgstr "Etikett för knapp i sidhuvud:"
+
+#: sections/llorix_one_lite_latest_news_section.php:28
+#: sections/llorix_one_lite_latest_news_section.php:141
+msgid "Latest blog posts"
+msgstr "Senaste blogginlägg"
+
+#: sections/llorix_one_lite_latest_news_section.php:44
+#: sections/llorix_one_lite_latest_news_section.php:157
+msgid "Post slider navigation: Down"
+msgstr "Navigation inläggskarusell: Ner"
+
+#: sections/llorix_one_lite_latest_news_section.php:45
+#: sections/llorix_one_lite_latest_news_section.php:158
+msgid "Post slider navigation: Up"
+msgstr "Navigation inläggskarusell: Upp"
+
+#: sections/llorix_one_lite_latest_news_section.php:68
+#: sections/llorix_one_lite_latest_news_section.php:181
+msgid "Latest News: %s"
+msgstr "Senaste nytt: %s"
+
+#: sections/llorix_one_lite_latest_news_section.php:96
+#: sections/llorix_one_lite_latest_news_section.php:209
+msgid "by"
+msgstr "av"
+
+#: sections/llorix_one_lite_contact_info_section.php:34
+#: sections/llorix_one_lite_contact_info_section.php:97
+msgid "Contact Info"
+msgstr "Kontaktinformation"
+
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:88
+msgid "Tagged %1$s"
+msgstr "Taggat %1$s"
+
+#: inc/template-tags.php:82
+msgid "Posted in %1$s"
+msgstr "Postat i %1$s"
+
+#: inc/template-tags.php:63
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: inc/template-tags.php:58
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postat %s"
+
+#: inc/template-tags.php:30
+msgid "Newer posts"
+msgstr "Nyare inlägg"
+
+#: inc/template-tags.php:26
+msgid "Older posts"
+msgstr "Äldre inlägg"
+
+#: inc/customizer.php:28
+msgid "Llorix One Lite theme general options"
+msgstr "Allmänna inställningar för temat Llorix One Lite"
+
+#: inc/customizer.php:61
+msgid "Disable preloader?"
+msgstr "Inaktivera förhandsladdning?"
+
+#: inc/customizer.php:62
+msgid "If this box is checked, the preloader will be disabled from homepage."
+msgstr "Om det här alternativet är markerat kommer förhandsladdningen inaktiveras för startsidan."
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: inc/customizer.php:26
+msgid "Advanced options"
+msgstr "Avancerade alternativ"
+
+#: inc/customizer.php:676
+msgid "Add new contact field"
+msgstr "Lägg till nytt kontaktfält"
+
+#: inc/customizer.php:690 inc/customizer.php:721
+msgid "Map shortcode"
+msgstr "Kortkod för karta"
+
+#: inc/customizer.php:699
+msgid "Contact page"
+msgstr "Kontaktsida"
+
+#: inc/customizer.php:709
+msgid "Contact form shortcode"
+msgstr "Kortkod för kontaktformulär"
+
+#: inc/customizer.php:730
+msgid "Footer options"
+msgstr "Inställningar för sidfot"
+
+#: inc/customizer.php:732
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Footer area. "
+msgstr "Innehållet i den här sektionen är anpassningsbart under: Anpassa-> Widgets-> Sidfot. "
+
+#: inc/customizer.php:748
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer.php:237
+msgid "Blog header"
+msgstr "Blogghuvud"
+
+#: inc/customizer.php:485
+msgid "About section"
+msgstr "Sektion för om oss"
+
+#: inc/customizer.php:505 sections/llorix_one_lite_our_story_section.php:15
+msgid "Our Story"
+msgstr "Vår historia"
+
+#: inc/customizer.php:517 sections/llorix_one_lite_our_story_section.php:16
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+#: inc/customizer.php:544
+msgid "Ribbon section"
+msgstr "Sektion för puff"
+
+#: inc/customizer.php:569
+msgid "Ribbon Background"
+msgstr "Bakgrund för puff"
+
+#: inc/customizer.php:613
+msgid "Latest news section"
+msgstr "Sektion för senaste nytt"
+
+#: inc/customizer.php:633 sections/llorix_one_lite_latest_news_section.php:25
+#: sections/llorix_one_lite_latest_news_section.php:138
+msgid "Latest news"
+msgstr "Senaste nytt"
+
+#: inc/customizer.php:395
+msgid "Parallax effect"
+msgstr "Parallax-effekt"
+
+#: inc/customizer.php:396
+msgid "If this box is checked, the parallax effect is enabled."
+msgstr "Om det här alternativet är markerat kommer parallax-effekten att användas."
+
+#: inc/customizer.php:408
+msgid "First layer"
+msgstr "Första lagret"
+
+#: inc/customizer.php:420
+msgid "Second layer"
+msgstr "Andra lagret"
+
+#: inc/customizer.php:171
+msgid "Very top header"
+msgstr "Översta sidhuvudet"
+
+#: header.php:84 inc/customizer.php:202
+msgid "(+9) 0999.500.400"
+msgstr "(+9) 0999.500.400"
+
+#: inc/customizer.php:207
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: inc/customizer.php:225 inc/customizer.php:473 inc/customizer.php:766
+msgid "Add new social icon"
+msgstr "Lägg till ny social ikon"
+
+#: inc/customizer.php:378 inc/customizer.php:605
+msgid "Button link"
+msgstr "Länk för knapp"
+
+#: inc/customizer.php:338 sections/llorix_one_lite_header_section.php:15
+msgid "Simple, Reliable and Awesome."
+msgstr "Enkelt, tillförlitligt och suveränt."
+
+#: inc/customizer.php:343 inc/customizer.php:510 inc/customizer.php:581
+#: inc/customizer.php:638
+msgid "Main title"
+msgstr "Huvudrubrik"
+
+#: inc/customizer.php:350 inc/customizer.php:576
+#: sections/llorix_one_lite_ribbon_section.php:16
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: inc/customizer.php:362 inc/customizer.php:588
+#: sections/llorix_one_lite_header_section.php:17
+#: sections/llorix_one_lite_ribbon_section.php:17
+msgid "GET STARTED"
+msgstr "KOM IGÅNG"
+
+#: inc/customizer.php:367 inc/customizer.php:593
+msgid "Button label"
+msgstr "Knapptext"
+
+#: inc/customizer.php:373 inc/customizer.php:600
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:331
+msgid "Header Logo"
+msgstr "Logotyp sidhuvud"
+
+#: inc/customizer.php:148
+msgid "Header visibility"
+msgstr "Synlighet för sidhuvud"
+
+#: inc/customizer.php:149
+msgid "If this box is checked, the header will toggle on frontpage."
+msgstr "Om det här alternativet är markerat kommer sidhuvudet visas/döljas på startsidan."
+
+#: inc/customizer.php:524
+msgid "Content"
+msgstr "Innehåll"
+
+#: inc/customizer.php:136 sections/llorix_one_lite_logos_section.php:46
+#: sections/llorix_one_lite_logos_section.php:50
+#: sections/llorix_one_lite_logos_section.php:55
+#: sections/llorix_one_lite_logos_section.php:57
+#: sections/llorix_one_lite_logos_section.php:85
+#: sections/llorix_one_lite_logos_section.php:89
+#: sections/llorix_one_lite_logos_section.php:94
+#: sections/llorix_one_lite_logos_section.php:96
+msgid "Logo"
+msgstr "Logotyp"
+
+#: inc/customizer.php:115
+msgid "Title color"
+msgstr "Rubrikfärg"
+
+#: inc/customizer.php:124
+msgid "General options"
+msgstr "Allmänna inställningar"
+
+#: inc/customizer.php:98
+msgid "Text color"
+msgstr "Textfärg"
+
+#: inc/class/llorix-one-lite-general-control.php:157
+msgid "Add new field"
+msgstr "Lägg till nytt fält"
+
+#: inc/customizer.php:701
+msgid "To customize the Contact Page you need to first select the template \"Contact page\" for the page you want to use for this purpose. Then open that page in the browser and press \"Customize\" in the top bar."
+msgstr "För att anpassa kontaktsidan behöver du först välja mallen \"Kontaktsida\" för sidan du vill använda. Öppna sedan sidan och klicka på \"Anpassa\" i verktygspanelen."
+
+#: inc/customizer.php:84
+msgid "Appearance"
+msgstr "Utseende"
+
+#: inc/class/llorix-one-lite-general-control.php:340
+#: inc/class/llorix-one-lite-general-control.php:403
+msgid "Delete field"
+msgstr "Radera fält"
+
+#: inc/class/llorix-one-lite-general-control.php:335
+#: inc/class/llorix-one-lite-general-control.php:396
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: inc/class/llorix-one-lite-general-control.php:327
+#: inc/class/llorix-one-lite-general-control.php:389
+msgid "Link"
+msgstr "Länk"
+
+#: inc/class/llorix-one-lite-general-control.php:319
+#: inc/class/llorix-one-lite-general-control.php:381
+msgid "Text"
+msgstr "Text"
+
+#: inc/class/llorix-one-lite-general-control.php:312
+#: inc/class/llorix-one-lite-general-control.php:374 inc/customizer.php:260
+#: inc/customizer.php:355
+msgid "Subtitle"
+msgstr "Underrubrik"
+
+#: inc/class/llorix-one-lite-general-control.php:305
+#: inc/class/llorix-one-lite-general-control.php:367 inc/customizer.php:249
+msgid "Title"
+msgstr "Titel"
+
+#: inc/class/llorix-one-lite-general-control.php:206
+msgid "Upload Image"
+msgstr "Ladda upp bild"
+
+#: inc/class/llorix-one-lite-general-control.php:224
+msgid "None"
+msgstr "Inget"
+
+#: inc/class/llorix-one-lite-general-control.php:203
+#: inc/class/llorix-one-lite-general-control.php:223 inc/customizer.php:273
+#: inc/customizer.php:536
+msgid "Image"
+msgstr "Bild"
+
+#: inc/admin/welcome-screen/welcome-screen.php:169
+msgid "Change log"
+msgstr "Ändringslogg"
+
+#: inc/class/llorix-one-lite-general-control.php:259
+#: inc/class/llorix-one-lite-general-control.php:350
+msgid "Llorix One"
+msgstr "Llorix One"
+
+#: inc/class/llorix-one-lite-general-control.php:219
+msgid "Image type"
+msgstr "Bildtyp"
+
+#: inc/class/llorix-one-lite-general-control.php:183
+#: inc/class/llorix-one-lite-general-control.php:222
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/admin/welcome-screen/sections/github.php:17
+msgid "GitHub is the place to go!"
+msgstr "GitHub är platsen att besöka!"
+
+#: inc/admin/welcome-screen/sections/github.php:20
+msgid "Llorix One Lite on GitHub"
+msgstr "Llorix One Lite på GitHub"
+
+#: inc/admin/welcome-screen/welcome-screen.php:53
+msgid "Welcome! Thank you for choosing Llorix One Lite! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Välkommen! Tack för att du väljer Llorix One Lite! För att få ut allt av temat, missa inte att besöka vår %svälkomstsida%s."
+
+#: inc/admin/welcome-screen/welcome-screen.php:54
+msgid "Get started with Llorix One Lite"
+msgstr "Kom igång med Llorix One Lite"
+
+#: inc/admin/welcome-screen/welcome-screen.php:87
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Hurra! Inga åtgärder krävs av dig just nu."
+
+#: inc/admin/welcome-screen/welcome-screen.php:165
+msgid "Actions recommended"
+msgstr "Rekommenderade åtgärder"
+
+#: inc/admin/welcome-screen/welcome-screen.php:167
+msgid "Contribute"
+msgstr "Bidra"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:121
+msgid "Makes your contact page more engaging by creating a good-looking contact form on your website. The interaction with your visitors was never easier."
+msgstr "Gör din kontaktsida mer engagerande genom att skapa ett snyggt kontaktformulär på din webbplats. Interaktionen med dina besökare har aldrig varit enklare."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:131
+msgid "Install Pirate Forms"
+msgstr "Installera Pirate Forms"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:87
+msgid "Need more details? Please check our full documentation for detailed information on how to use Llorix One."
+msgstr "Behöver du mer hjälp? Kolla in vår fullständiga dokumentation för mer detaljerad information på hur man använder Llorix One."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:88
+msgid "Read full documentation"
+msgstr "Läs fullständig dokumentation"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:95
+msgid "Recommended plugins"
+msgstr "Rekommenderade tillägg"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:187
+msgid "Intergeo Maps - Google Maps Plugin"
+msgstr "Intergeo Maps - Google Maps Plugin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:188
+msgid "The Intergeo Google Maps plugin is a simple, easy and in the same time quite powerful tool for handling Google Maps in your website. The plugin allows users to create new maps by using powerful UI builder."
+msgstr "Intergeo Google Maps plugin är ett enkelt, smidigt och samtidigt mycket kraftfullt verktyg för att hantera Google Maps på din webbplats. Tillägget låter användare skapa nya kartor med hjälp av ett kraftfullt användargränssnitt."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:106
+#: inc/admin/welcome-screen/sections/getting-started.php:125
+#: inc/admin/welcome-screen/sections/getting-started.php:144
+#: inc/admin/welcome-screen/sections/getting-started.php:173
+#: inc/admin/welcome-screen/sections/getting-started.php:192
+#: inc/admin/welcome-screen/sections/getting-started.php:211
+#: inc/admin/welcome-screen/sections/getting-started.php:230
+msgid "Already activated"
+msgstr "Redan aktiverat"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:198
+msgid "Install Intergeo Maps"
+msgstr "Installera Intergeo Maps"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:120
+#: inc/customizer.php:710
+msgid "Pirate Forms"
+msgstr "Pirate Forms"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:43
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Om du vill göra ändringar i temafilerna, då kommer dessa ändringar försvinna när du uppdaterar temat nästa gång. För att undvika att det sker kan du skapa ett barntema. För dokumentationen nedan för att se hur man gör."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:44
+#: inc/admin/welcome-screen/sections/getting-started.php:50
+#: inc/admin/welcome-screen/sections/getting-started.php:56
+#: inc/admin/welcome-screen/sections/getting-started.php:64
+#: inc/admin/welcome-screen/sections/getting-started.php:70
+#: inc/admin/welcome-screen/sections/getting-started.php:76
+msgid "View how to do this"
+msgstr "Se hur man"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:48
+msgid "How to Internationalize Your Website"
+msgstr "Gör din webbplats internationell"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:49
+msgid "Although English is the most used language on the internet, you should consider all your web users as well. Find out what it takes to make your website ready for foreign markets from this document."
+msgstr "Även om engelska är det mest använda språket på internet, bör du överväga alla webbanvändare. Ta reda på vad som krävs för att göra din webbplats redo för utländska marknader med det här dokumentet."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:62
+msgid "Speed up your site"
+msgstr "Snabba upp din webbplats"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:63
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Om du befinner dig i en situation där allt på din webbplats laddas väldigt segt, då kan du överväga att ta en titt i dokumentation nedan där du hittar de vanligaste problem som orsakar sega sidor och möjliga lösningar för var och en av problemen."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:68
+msgid "Link Menu to sections"
+msgstr "Länka meny till sektioner"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:69
+msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
+msgstr "Att länka startsidans sektioner med huvudmenyn är väldigt enkelt, allt du behöver göra är att associera sektionernas ankare med menyn. I dokumentationen nedan hittar du en guide för detta."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:74
+msgid "Change anchors"
+msgstr "Ändra ankare"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:75
+msgid "To better suit your site's needs, you can change each section's anchor to what you want. The entire process is described below."
+msgstr "För att bättre passa webbplatsens behov kan du ändra varje sektions ankare till det du önskar. Hela processen beskrivs nedan."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+msgid "View full documentation"
+msgstr "Se fullständig dokumentation"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid "Create a child theme"
+msgstr "Skapa ett barntema"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "Customize everything in a single place."
+msgstr "Anpassa allt på ett och samma ställe."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:27
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Med hjälp av WordPress anpassare kan du enkelt anpassa varje del av temat."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:28
+msgid "Go to Customizer"
+msgstr "Gå till anpassaren"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with Llorix One Lite's recommended actions"
+msgstr "Håll dig uppdaterad med Llorix One Lites rekommenderade åtgärder"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:58
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr "Hurra! Inga rekommenderade åtgärder krävs av dig just nu."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:13
+msgid "Welcome to Llorix One Lite!"
+msgstr "Välkommen till Llorix One Lite!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "Our most elegant and professional one-page theme, which turns your scrolling into a smooth and pleasant experience."
+msgstr "Vårt mest eleganta och professionella ensidestema som förvandlar ditt bläddrande till en smidig och behaglig upplevelse."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "We want to make sure you have the best experience using Llorix One Lite and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Llorix One Lite, as much as we enjoy creating great products."
+msgstr "Vi vill att din upplevelse med Llorix One Lite ska vara den bästa möjliga och vi har därför samlat all nödvändig information här. Vi hoppas du kommer att gilla Llorix One Lite lika mycket som vi gillade att skapa det."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+#: inc/admin/welcome-screen/welcome-screen.php:164
+msgid "Getting started"
+msgstr "Kom igång"
+
+#: header.php:142 header.php:146
+msgid "Call us:"
+msgstr "Ring oss:"
+
+#: header.php:195
+msgid "Toggle Menu"
+msgstr "Visa/dölj meny"
+
+#: header.php:196
+msgid "Toggle navigation"
+msgstr "Växla navigering"
+
+#: functions.php:717
+msgid "Read more about "
+msgstr "Läs mer om"
+
+#: header.php:20
+msgid "Skip to content"
+msgstr "Gå till innehåll"
+
+#: functions.php:522
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, j F, Y, H:i"
+
+#: functions.php:523
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: functions.php:514
+msgid "<span itemprop=\"name\">%s </span><span class=\"says\">says:</span>"
+msgstr "<span itemprop=\"name\">%s </span><span class=\"says\">skriver:</span>"
+
+#: functions.php:517
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: functions.php:504 functions.php:526
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: functions.php:504
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:379
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Ledsen, du saknar behörighet för att uppdatera tillägget %s. Kontakta administratören av den här webbplatsen för att få hjälp på att få tillägget uppdaterat."
+msgstr[1] "Ledsen, du saknar behörighet för att uppdatera tilläggen %s. Kontakta administratören av den här webbplatsen för att få hjälp på att få tilläggen uppdaterade."
+
+#: functions.php:384
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alla tillägg installerades och aktiverades utan problem. %s"
+
+#: functions.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Ledsen, du saknar behörighet för att aktivera tillägget %s. Kontakta administratören av den här webbplatsen för att få hjälp på att få tillägget aktiverat."
+msgstr[1] "Ledsen, du saknar behörighet för att aktivera tilläggen %s. Kontakta administratören av den här webbplatsen för att få hjälp på att få tilläggen aktiverade."
+
+#: functions.php:374
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Ledsen, du saknar behörighet för att installera tillägget %s. Kontakta administratören av den här webbplatsen för att få hjälp på att få tillägget installerat."
+msgstr[1] "Ledsen, du saknar behörighet för att installera tilläggen %s. Kontakta administratören av den här webbplatsen för att få hjälp på att få tilläggen installerade."
+
+#: functions.php:244
+msgid "collapse child menu"
+msgstr "stäng undermeny"
+
+#: functions.php:199
+msgid "Footer area %d"
+msgstr "Sidfot %d"
+
+#: functions.php:243
+msgid "expand child menu"
+msgstr "öppna undermeny"
+
+#: functions.php:138
+msgid "Switch \"Front page displays\" to \"A static page\" "
+msgstr "Ändra \"Startsidan visar\" till \"En statisk sida\" "
+
+#: functions.php:139
+msgid "In order to have the one page look for your website, please go to Customize -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
+msgstr "För att använda en ensidesmall för din webbplats, gå till Anpassa-> Statisk startsida och ändra \"Startsidan visar\" till \"En statisk sida\". Välj sedan mallen \"Startsida\" för den valda sidan."
+
+#: functions.php:144
+msgid "Install Intergeo Maps - Google Maps Plugin"
+msgstr "Installera Intergeo Maps - Google Maps Plugin"
+
+#: functions.php:145
+msgid "In order to use map section, you need to install Intergeo Maps plugin then use it to create a map and paste the generated shortcode in Customize -> Contact section -> Map shortcode"
+msgstr "För att använda sektionen med karta så måste du installera Intergeo Maps plugin för att sedan använda det för att skapa en karta och klistra in den genererade kortkoden under Anpassa -> Sektion för kontakt -> Kortkod för karta"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:47
+msgid "Footer Menu"
+msgstr "Meny, sidfot"
+
+#: functions.php:46 header.php:250
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: footer.php:124
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:124
+msgid "powered by"
+msgstr "Drivs med"
+
+#: content.php:9
+msgid "Blog post: %s"
+msgstr "Blogginlägg: %s"
+
+#: sections/llorix_one_lite_latest_news_section.php:69
+#: sections/llorix_one_lite_latest_news_section.php:93
+#: sections/llorix_one_lite_latest_news_section.php:182
+#: sections/llorix_one_lite_latest_news_section.php:206
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, j F, Y, H:i"
+
+#: content.php:52
+msgid "Posted in"
+msgstr "Postat i"
+
+#: footer.php:19
+msgid "Widgets Area 1"
+msgstr "Widgetfält 1"
+
+#: footer.php:29
+msgid "Widgets Area 2"
+msgstr "Widgetfält 2"
+
+#: footer.php:38
+msgid "Widgets Area 3"
+msgstr "Widgetfält 3"
+
+#: footer.php:47
+msgid "Widgets Area 4"
+msgstr "Widgetfält 4"
+
+#: footer.php:73 footer.php:74
+msgid "Secondary Menu"
+msgstr "Sekundär meny"
+
+#: content-search.php:85 content.php:78
+msgid "Read more %s ..."
+msgstr "Fortsätt läsa %s ..."
+
+#: content-search.php:85 content.php:78
+msgid "about "
+msgstr "om"
+
+#: content-search.php:73 content-single.php:28 content.php:66
+msgid "% comments"
+msgstr "% kommentarer"
+
+#: content-search.php:73 content-single.php:28 content.php:66
+msgid "One comment"
+msgstr "En kommentar"
+
+#: content-search.php:73 content-single.php:28 content.php:66
+msgid "No comments"
+msgstr "Inga kommentarer"
+
+#: content-search.php:59
+msgid "Posted in "
+msgstr "Postat i"
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:53 content.php:55 inc/template-tags.php:80
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: content-page.php:25 content-search.php:90 content-single-download.php:29
+#: content-single.php:37 content.php:83
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som det du letade efter inte kunde hittas. Kanske kan en sökning hjälpa."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ledsen, inget matchade dina sökkriterier. Vänligen försök igen med andra nyckelord."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Börja här</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Inget kunde hittas"
+
+#: content-contact.php:36 content-page.php:32
+#: eventbrite/eventbrite-index.php:55 eventbrite/eventbrite-single.php:46
+#: inc/template-tags.php:98
+msgid "Edit"
+msgstr "Redigera"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Kommentarer inaktiverade."
+
+#: comments.php:41 comments.php:64
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:40 comments.php:63
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:37 comments.php:60
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s reaktion på &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner på &ldquo;%2$s&rdquo;"
+
+#: class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerar tillägg %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Alla installationer är klara."
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationsprocessen starar. Denna process kan ta en stund på vissa servrar, ha tålamod."
+
+#: class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s installerades."
+
+#: class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerar och aktiverar tillägg %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Alla installationer och aktiveringar är klara."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Göm detaljer"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Visa detaljer"
+
+#: class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installerades och aktiverades."
+
+#: class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "Installationen av %1$s misslyckades."
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installations- och aktiveringsprocessen startas. Denna process kan ta en stund på vissa servrar."
+
+#: class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ett fel uppstod vid installation av %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Uppdaterar tillägget %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Inga tillägg finns tillgängliga för aktivering just nu."
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Aktivering av tillägget misslyckades."
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Inga tillägg finns tillgängliga för installation just nu."
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Inga tillägg finns tillgängliga för uppdatering just nu."
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Inga tillägg valdes för aktivering. Inga åtgärder vidtogs."
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Inga tillägg valdes för installation. Inga åtgärder vidtogs."
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Inga tillägg valdes för uppdatering. Inga åtgärder vidtogs."
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Aktivera"
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Uppdatering"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Uppdateringsmeddelande från tilläggets skapare:"
+
+#: class-tgm-plugin-activation.php:2603
+#: inc/admin/welcome-screen/sections/getting-started.php:217
+#: inc/admin/welcome-screen/sections/getting-started.php:236
+msgid "Install"
+msgstr "Installera"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Uppdatera %2$s"
+
+#: class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktivera %2$s"
+
+#: class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installera %2$s"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Version"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Typ"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Källa"
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Tillgänglig version:"
+
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Inga tillägg att installera, uppdatera eller aktivera. <a href=\"%1$s\">Tillbaka till adminpanelen</a>"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Tillägg"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "okänt"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Installerad version:"
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Minsta version som krävs:"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Att aktivera <span class=\"count\">(%s)</span>"
+msgstr[1] "Att aktivera <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Att installera <span class=\"count\">(%s)</span>"
+msgstr[1] "Att installera <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Uppdatering tillgänglig <span class=\"count\">(%s)</span>"
+msgstr[1] "Uppdateringar tillgängliga <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alla <span class=\"count\">(%s)</span>"
+msgstr[1] "Alla <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Ingen obligatoriskt uppdatering tillgänglig"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Kräver uppdatering"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Uppdatering rekommenderas"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Aktiverat"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Installerat men inte aktiverat"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Ej installerat"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Extern källa"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Förpaketerat"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress förråd"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Rekommenderat"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "﻿Obligatoriskt"
+
+#: class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Fjärrpaketet för tillägget innehåller inte någon katalog med önskat namn, den gick inte att döpa om."
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vänligen kontakta tilläggets skapare och be dem att paketera sitt tillägg i enlighet med WordPress riktlinjer."
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Fjärrpaketet av tillägget innehåller mer än en fil, men filerna har inte placerats i nödvändig katalog."
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "och"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Sätt konfigurationsvariabeln för paret_slug istället."
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Tillbaka till adminpanelen"
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Vänligen kontakta administratören av denna webbplats för att få hjälp."
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Det här tillägget måste uppdateras för att vara kompatibelt med ditt tema."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Uppdatering krävs"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Avfärda den här notisen"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Tillägget aktiverades inte. En nyare version av %s behövs för det här temat. Vänligen uppdatera tillägget."
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alla plugins installerades och aktiverades utan problem. %1$s"
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "Följande tillägg har aktiverats:"
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen åtgärd vidtogs. Tillägget %1$s var redan aktivt."
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+#: functions.php:383
+msgid "Plugin activated successfully."
+msgstr "Tillägg aktiverat."
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Tillbaka till adminpanelen"
+
+#: class-tgm-plugin-activation.php:392 functions.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Börja aktivera tillägg"
+msgstr[1] "Börja aktivera tilläggen"
+
+#: class-tgm-plugin-activation.php:397 functions.php:382
+msgid "Return to Required Plugins Installer"
+msgstr "Tillbaka till installationen av obligatoriska tillägg"
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Börja uppdatera tillägg"
+msgstr[1] "Börja uppdatera tilläggen"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Ledsen, du saknar behörighet för att aktivera tillägget %s."
+msgstr[1] "Ledsen, du saknar behörighet för att aktivera tilläggen %s."
+
+#: class-tgm-plugin-activation.php:382 functions.php:380
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Börja installera tillägg"
+msgstr[1] "Börja installera tilläggen"
+
+#: class-tgm-plugin-activation.php:372 functions.php:376
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Följande rekommenderad tillägg är just nu inaktivt: %1$s."
+msgstr[1] "Följande rekommenderade tillägg är just nu inaktiva: %1$s."
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Det finns en uppdatering tillgänglig för: %1$s."
+msgstr[1] "Det finns uppdateringar tillgängliga för följande tillägg: %1$s."
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Ledsen, du saknar behörighet för att uppdatera tillägget %1$s."
+msgstr[1] "Ledsen, du saknar behörighet för att uppdatera tilläggen %1$s."
+
+#: class-tgm-plugin-activation.php:367 functions.php:375
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Följande obligatoriskt tillägg är just nu inaktivt: %1$s."
+msgstr[1] "Följande obligatoriska tillägg är just nu inaktiva: %1$s."
+
+#: class-tgm-plugin-activation.php:352 functions.php:378
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Följande tillägg behöver uppdateras till senaste version för att garantera maximal kompatibilitet med det här temat: %1$s."
+msgstr[1] "Följande tillägg behöver uppdateras till senaste version för att garantera maximal kompatibilitet med det här temat: %1$s."
+
+#: class-tgm-plugin-activation.php:342 functions.php:373
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Det här temat rekommenderar följande tillägg: %1$s."
+msgstr[1] "Det här temat rekommenderar följande tillägg: %1$s."
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Ledsen, du saknar behörighet för att installera tillägget %s."
+msgstr[1] "Ledsen, du saknar behörighet för att installera tilläggen %s."
+
+#: class-tgm-plugin-activation.php:337 functions.php:372
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Det här temat kräver följande tillägg: %1$s."
+msgstr[1] "Det här temat kräver följande tillägg: %1$s."
+
+#: class-tgm-plugin-activation.php:336 functions.php:371
+msgid "Something went wrong with the plugin API."
+msgstr "Något gick fel med tilläggets API."
+
+#: class-tgm-plugin-activation.php:335 functions.php:370
+msgid "Installing Plugin: %s"
+msgstr "Installerar tillägg: %s"
+
+#: class-tgm-plugin-activation.php:334 functions.php:369
+msgid "Install Plugins"
+msgstr "Installera tillägg"
+
+#: class-tgm-plugin-activation.php:333 functions.php:368
+msgid "Install Required Plugins"
+msgstr "Installera obligatoriska tillägg"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som att det inte finns någonting här. Du kan testa en sökning eller någon av länkarna nedan."
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Sidan kunde inte hittas."
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/llorix-one/"
+msgstr "http://themeisle.com/themes/llorix-one/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com/"
+msgstr "http://themeisle.com/"
